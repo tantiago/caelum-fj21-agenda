@@ -11,7 +11,9 @@
 </head>
 <body class="container">
 	<c:import url="cabecalho.jsp" />
-
+	
+	<a href="mvc?logica=FormularioEmBrancoLogic">Adicionar</a>
+	
 	<!-- criar o DAO -->
 	<table border="1" style="width:100%">
 		<tr>
